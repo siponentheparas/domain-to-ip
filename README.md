@@ -13,6 +13,3 @@ run:
 dotnet build
 ```
 to build the project.
-
-## Contribution
-Feel free to contribute.
